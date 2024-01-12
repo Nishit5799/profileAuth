@@ -67,7 +67,7 @@ const LoginPage = () => {
             </button>
             <Link
               href="/signup"
-              className="text-[1vw] text-center text-blue-600"
+              className=" text-center text-blue-600 sm:text-[2vw] md:text-[1.6vw] lg:text-[1vw]"
             >
               Don't have an account? Signup
             </Link>
